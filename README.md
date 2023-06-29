@@ -187,12 +187,12 @@ We provide the full derivation through Variational inference and discuss the imp
 
 ---
 
-### [07 - Approximate inference](07a_approximate_inference.ipynb)
+### [07 - Approximate inference](07_approximate_inference.pdf)
 
-[![Slides](https://img.shields.io/badge/Slides-none-7D1616.svg?style=flat-square&logo=googledrive)]() 
-[![Powerpoint](https://img.shields.io/badge/Slides-none-7D1616.svg?style=flat-square&logo=files)]() 
-[![Colab](https://img.shields.io/badge/Notebook-none-7D1616.svg?style=flat-square&logo=googlecolab)]() 
-[![Notebook](https://img.shields.io/badge/Notebook-none-7D1616.svg?style=flat-square&logo=jupyter)](07b_sampling_mcmc.ipynb) 
+[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vTRPOFFdfMkovNmVbvUCwZ_P99HuJnXfXI0_YBc-0Yo_QK-Xy73M7m7ZKqPl9AaIM8rjxjJ52LFmRbI/pub?start=false&loop=false&delayms=60000) 
+[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](07_approximate_inference.pdf) 
+[![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1WtD-fbHRxuVotwTv2w1yRDF57iz7aB5P?usp=sharing) 
+[![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](07_approximate_inference.ipynb) 
 
 We introduce here the notion of approximate inference, through historical applications of sampling with Monte-Carlo and Metropolis-Hastings.
 We further show how variational inference can provide an elegant solution to our estimation problems and discuss its implications.
@@ -202,10 +202,10 @@ We further show how variational inference can provide an elegant solution to our
 
 ### [08 - Variational Auto-Encoder (VAE) and flows](08_variational_ae_flows.pdf)
 
-[![Slides](https://img.shields.io/badge/Slides-none-7D1616.svg?style=flat-square&logo=googledrive)]() 
-[![Powerpoint](https://img.shields.io/badge/Slides-none-7D1616.svg?style=flat-square&logo=files)]() 
-[![Colab](https://img.shields.io/badge/Notebook-none-7D1616.svg?style=flat-square&logo=googlecolab)]() 
-[![Notebook](https://img.shields.io/badge/Notebook-none-7D1616.svg?style=flat-square&logo=jupyter)](08a_variational_auto_encoders.ipynb) 
+[![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vR4jgsV-wBI3R3qpZ3-Z9LzppzHKvCl6NzUBy5hdKlMBfEFmQUhNen_6I8GxZxX6aBPthv9ZKNehcvq/pub?start=false&loop=false&delayms=60000) 
+[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](08_variational_ae_flows.pdf) 
+[![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1lY9XXdtE5lhs4FKmzaCMFa30LrSOXd2j?usp=sharing) 
+[![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](08a_variational_auto_encoders.ipynb) 
 
 We show how fusing Auto-Encoders and variational inference leads to the Variational Auto-Encoder (VAE), a powerful generative models.
 We discuss issues of disentanglement and posterior collapse and introduce the recent Normalizing Flows and how these can be 
@@ -213,8 +213,8 @@ used in generative contexts.
     
 **Additional notebook on Normalizing Flows**
 
-[![Colab](https://img.shields.io/badge/Notebook-none-7D1616.svg?style=flat-square&logo=googlecolab)]() 
-[![Notebook](https://img.shields.io/badge/Notebook-none-7D1616.svg?style=flat-square&logo=jupyter)](08b_normalizing_flows.ipynb) 
+[![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1jyhNNWhDXidsvnSix4LPlG2VZJnAN0tY?usp=sharing) 
+[![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](08b_normalizing_flows.ipynb) 
 
 ---
 
